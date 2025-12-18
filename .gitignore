@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# PDF с выписками (КРИТИЧНО)
+*.pdf
+
+# Логи
+*.log
+
+# OS
+.DS_Store
